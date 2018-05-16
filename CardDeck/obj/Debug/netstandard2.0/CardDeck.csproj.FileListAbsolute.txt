@@ -1,0 +1,9 @@
+c:\users\peter\source\repos\CardDeck\CardDeck\bin\Debug\netstandard2.0\CardDeck.deps.json
+c:\users\peter\source\repos\CardDeck\CardDeck\bin\Debug\netstandard2.0\CardDeck.dll
+c:\users\peter\source\repos\CardDeck\CardDeck\bin\Debug\netstandard2.0\CardDeck.pdb
+c:\users\peter\source\repos\CardDeck\CardDeck\obj\Debug\netstandard2.0\CardDeck.csprojResolveAssemblyReference.cache
+c:\users\peter\source\repos\CardDeck\CardDeck\obj\Debug\netstandard2.0\CardDeck.csproj.CoreCompileInputs.cache
+c:\users\peter\source\repos\CardDeck\CardDeck\obj\Debug\netstandard2.0\CardDeck.AssemblyInfoInputs.cache
+c:\users\peter\source\repos\CardDeck\CardDeck\obj\Debug\netstandard2.0\CardDeck.AssemblyInfo.cs
+c:\users\peter\source\repos\CardDeck\CardDeck\obj\Debug\netstandard2.0\CardDeck.dll
+c:\users\peter\source\repos\CardDeck\CardDeck\obj\Debug\netstandard2.0\CardDeck.pdb
