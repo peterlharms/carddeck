@@ -62,9 +62,12 @@ namespace CardDeck
 			}
 		}
 
-		public int OrdinalValue()
+		public int OrdinalValue
 		{
-			return ((int)_suit * 13 + (int)_value - 2);
+			get
+			{
+				return ((int)_suit * 13 + (int)_value - 2);
+			}
 		}
 	}
 
@@ -91,7 +94,7 @@ namespace CardDeck
 			{
 				return _left;
 			}
-			protected set
+			private set
 			{
 				_left = value;
 			}
@@ -103,7 +106,8 @@ namespace CardDeck
 			{
 				return _right;
 			}
-			protected set
+			private
+				set
 			{
 				_right = value;
 			}

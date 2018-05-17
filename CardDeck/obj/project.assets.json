@@ -186,11 +186,11 @@
       "hideWarningsAndErrors": true
     },
     "restore": {
-      "projectUniqueName": "c:\\users\\peter\\source\\repos\\CardDeck\\CardDeck\\CardDeck.csproj",
+      "projectUniqueName": "C:\\Users\\Peter\\source\\repos\\CardDeck\\CardDeck\\CardDeck.csproj",
       "projectName": "CardDeck",
-      "projectPath": "c:\\users\\peter\\source\\repos\\CardDeck\\CardDeck\\CardDeck.csproj",
+      "projectPath": "C:\\Users\\Peter\\source\\repos\\CardDeck\\CardDeck\\CardDeck.csproj",
       "packagesPath": "C:\\Users\\Peter\\.nuget\\packages\\",
-      "outputPath": "c:\\users\\peter\\source\\repos\\CardDeck\\CardDeck\\obj\\",
+      "outputPath": "C:\\Users\\Peter\\source\\repos\\CardDeck\\CardDeck\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
